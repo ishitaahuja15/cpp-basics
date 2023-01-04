@@ -1,2 +1,2 @@
 # cpp-basics
-c++ basic problems
+c++ basic problems for beginners
